@@ -1,6 +1,6 @@
-# hello im Nure
+# hello im Onur Alp
 # 💫 About Me:
-i am learning python.
+i am learning python and lua, with the vibecoding.
 
 
 ## 🌐 Socials:
